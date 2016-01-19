@@ -1,5 +1,5 @@
 html{
-  background-color: BurlyWood;
+  background-image: url("https://40.media.tumblr.com/75c9803a3a47b59dda40ee09fa64cfb0/tumblr_o17rqaIz6e1qapm0ro1_250.png") ;
   color; DarkGreen;
 }
 
@@ -9,4 +9,14 @@ h2{
 
 h1{
   color: Red;
+}
+body{
+  margin-left: 100px;
+  margin-right:100px;
+  margin-bottom: 120px;
+}
+
+p{
+  font-family: fantasy;
+  font-size: 20px;
 }
