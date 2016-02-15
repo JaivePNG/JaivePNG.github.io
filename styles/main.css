@@ -166,10 +166,6 @@ ul.footer {
     background-color: #666699;
 }
 
-div.container.footer{
-  background-color: #333;
-}
-
 li.footer {
     float: left;
     text-align: center;
@@ -186,4 +182,20 @@ li a.footer {
 li a:hover {
     background-color: #111;
 }
-</style>
+
+/* page footer */
+
+  footer{
+  padding:3rem 0;
+  }
+
+  footer a{
+  width:52px;
+  height:52px;
+  padding:52px 0 0 0;
+  margin: 0 2em;
+  }
+
+  footer a::before {
+  font-size:48px;
+  }
