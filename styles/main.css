@@ -205,3 +205,16 @@ li a:hover {
   div#float{
     overflow: auto;
   }
+
+  /* media query */
+
+  @media screen and (max-width: 500px) {
+    h6{ display: none; }
+}
+
+@media screen and (max-width: 500px) {
+    div.left{
+      float:none;
+      width:100%;
+      }
+}
