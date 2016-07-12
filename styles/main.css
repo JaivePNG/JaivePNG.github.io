@@ -221,3 +221,31 @@ li a:hover {
 *font{
 font-family: 'Chewy', cursive;  
 }
+
+/* social media share */
+
+.jas{
+  flex: auto;
+  display:block;
+  float:left;
+  padding:10px,15px;
+  border:none;
+  background-color:#ececec;
+  text-decoration: none;
+  font-size:18px;
+  color:#ffffff;
+}
+
+.jas:hover{
+  color:#efefef;
+}
+
+.facebook{
+  background-color: #3b5998;
+}
+
+.gplus{
+  background-color: #dd4b39;
+}
+
+/* social media */
